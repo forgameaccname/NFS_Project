@@ -1,0 +1,15 @@
+﻿Сборка начата 22.06.2014 17:31:08.
+     1>Проект "W:\Universitet\Курс№2_сем2\NFS_project\NFS_project\NFS_project.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Дима\Documents\Visual Studio 2012\Projects\hge181\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\NFS_project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Дима\Documents\Visual Studio 2012\Projects\hge181\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NFS_project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NFS_project.cpp objectcl.cpp
+         objectcl.cpp
+         NFS_project.cpp
+     1>w:\universitet\курс№2_сем2\nfs_project\nfs_project\nfs_project.cpp(2): fatal error C1083: Не удается открыть файл включение: hge.h: No such file or directory
+         Создание кода...
+     1>Сборка проекта "W:\Universitet\Курс№2_сем2\NFS_project\NFS_project\NFS_project.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.79
